@@ -1,7 +1,15 @@
 # 三种实现
 > 目前只实现了一种
 > 使用了C++的模板元编程和OPP的思想
+>
+> 大作业实现了带头结点的LinkedLIst,可以尝试着实现一下没有头节点的
 
-list.h是抽象数据结构,ChangeArrayLenth.h用于改变数组的长度
-arraylist是用数组实现的线性表
+## arrayList
 
+changeArrayLenth.h用于改变数组长度，list.h为抽象数据结构，arraylist.h为具体实现
+
+## 大作业
+
+**大作业的实现放在大作业文件夹了，请组员务必学习！！！**
+
+尝试着用大作业中的头文件实现一下大整数加法！
