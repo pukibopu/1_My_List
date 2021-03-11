@@ -1,5 +1,5 @@
 #include<iostream>
-
+using namespace std;
 typedef int ElemType;
 
 struct LNode
